@@ -1,14 +1,14 @@
-## Welcome to GitHub Pages
-## 欢迎来到GitHu Pages
+## Welcome to MY GitHub Pages
+## 欢迎来到我的 GitHu Pages
 
 You can use the [editor on GitHub](https://github.com/7366348/7366348.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-您可以使用[Gith上的编辑器](https://github.com/7366348/7366348.github.io/edit/master/README.md)来维护和预览Markdown文件中网站的内容。
+您可以使用[Github上的编辑器](https://github.com/7366348/7366348.github.io/edit/master/README.md)来维护和预览Markdown文件中网站的内容。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 当您提交到该存储库时，GitHub Pages 都会运行[Jekyll](https://jekyllrb.com/)
-根据Markdo文件中的内容从而重新构建站点中的页面。
+根据Markdown文件中的内容从而重新构建站点中的页面。
 
 ### Markdown
 
